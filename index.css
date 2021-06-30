@@ -1,0 +1,130 @@
+#intro{
+    font-family: 'Manrope', sans-serif;
+    font-style: normal;
+    font-weight: 200;
+  /*  background-color: #022140; */
+    width: 100%;
+    height: 100%;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    border-top-style: none;
+    border-left-style: none; 
+    border-right-style: none;
+    margin: 0%;
+    padding: 0px;
+    background-repeat: no-repeat;
+    background-size: 50% 50%;
+    
+    background-size: 10% 60%;
+    
+   
+}
+
+body{
+    font-family: 'Manrope', sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    background-image: linear-gradient(#265077, #022140);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    background-color: #022140;
+    
+
+}
+
+a:link, a:visited {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    word-spacing: 50px;
+    padding: 12px 24px;
+}
+
+a:hover{
+   color: lightblue;
+   
+}
+
+.topnav {
+    overflow: hidden;
+   /* background-color: #022140;*/
+   border-style: solid;
+   border-color: white;
+   border-right-style: none;
+   border-left-style: none;
+   border-bottom-style: none;
+}
+  
+  /* Navbar links */
+.topnav a {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+  /* Links - change color on hover */
+.topnav a:hover {
+    background-color: white;
+    color: black;
+}
+.topnav p{
+    text-align: left;
+    font-size: 20px;
+}
+
+.leftnav{
+    text-align: center;
+    display: inline-block;
+}
+.leftnav img{
+    margin: 20px;
+    width: 100;
+    height: 100;
+    border-style: solid;
+    border-color: white;
+}
+
+.leftnav h2{
+    font-size: medium;
+}
+
+.leftnav p{
+    color: white;
+    
+    margin: 20px;
+}
+
+#middle{
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'Manrope', sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 30px;
+    
+    
+  /*  border-style: solid;
+    border-color: white;
+    border-top-style: none;
+ */
+}
+
+.lists ul{
+    /*display: inline-block;*/
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.lists i{
+    float: right;
+    padding: 15px;
+}
+
